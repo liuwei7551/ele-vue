@@ -1,6 +1,6 @@
 # sell
 
-> sell app
+> sell app test
 
 ## Build Setup
 
